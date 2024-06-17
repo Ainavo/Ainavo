@@ -4,6 +4,8 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ainavo/Ainavo/output/github-contribution-grid-snake.svg">
 </picture>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ainavo)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!--START_SECTION:waka-->
 
 ```txt
